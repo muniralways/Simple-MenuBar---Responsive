@@ -32,13 +32,13 @@ Perfect for portfolio, business, or educational web projects.
 ## 📂 Folder Structure
 
 ```plaintext
-html-forms-template/
-│
-├── index.html                   # HTML Forms Template
-├── style.css                    # Custom CSS
-│
-└── README.md
-
+Simple MenuBar - Responsive/
+                          │
+                          ├── index.html                   # HTML Forms Template
+                          ├── style.css                    # Custom CSS
+                          │
+                          └── README.md
+```
 ### 1. Download as ZIP
 - Go to the repository page on GitHub.  
 - Click the green **Code** button → **Download ZIP**.  
